@@ -104,6 +104,9 @@ which will print both the response HTTP header and the body.
   Make sure the "Buy Nothing Tests - localhost" is selected from the pull down menu in the upper right.
     + Click on the blue "Run Buy Nothing Tests" to find out how many of the tests are passing.
 
+### Important information
+
+* The REST_controller file has been moved to a different package, in order to not disturb the JUnit texting percentages. Before running the project on Postman please return the REST_controller to the package where all the other classes are. Make sure to clean and build the file before uploading the .war file into Postman. 
 
 ### Who do I talk to? ###
 
