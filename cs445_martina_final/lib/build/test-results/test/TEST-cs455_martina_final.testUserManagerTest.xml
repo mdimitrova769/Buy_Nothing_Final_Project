@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cs455_martina_final.testUserManagerTest" tests="121" skipped="0" failures="0" errors="0" timestamp="2022-04-22T04:20:14" hostname="parallels-Parallels-Virtual-Platform" time="0.825">
+  <properties/>
+  <testcase name="testUserAccountDateCreated()" classname="cs455_martina_final.testUserManagerTest" time="0.082"/>
+  <testcase name="testUserAccountAddressStreet()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testUserAccountUserConstructorName()" classname="cs455_martina_final.testUserManagerTest" time="0.003"/>
+  <testcase name="testCreateNewAsk()" classname="cs455_martina_final.testUserManagerTest" time="0.021"/>
+  <testcase name="testGiveSettersEndDate()" classname="cs455_martina_final.testUserManagerTest" time="0.003"/>
+  <testcase name="testNoteCreationSettersTypeGive()" classname="cs455_martina_final.testUserManagerTest" time="0.007"/>
+  <testcase name="testOtgovorDetail()" classname="cs455_martina_final.testUserManagerTest" time="0.005"/>
+  <testcase name="testNoteCreationSettersToId()" classname="cs455_martina_final.testUserManagerTest" time="0.002"/>
+  <testcase name="testNoteCreationSettersType()" classname="cs455_martina_final.testUserManagerTest" time="0.002"/>
+  <testcase name="testUserAccountName()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testCreateAskNullEnd_date()" classname="cs455_martina_final.testUserManagerTest" time="0.003"/>
+  <testcase name="testReportCreationNameComparisonId()" classname="cs455_martina_final.testUserManagerTest" time="0.004"/>
+  <testcase name="testAddGive()" classname="cs455_martina_final.testUserManagerTest" time="0.002"/>
+  <testcase name="testAddNote()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testCreateAskObjectTrueTypeBorrow()" classname="cs455_martina_final.testUserManagerTest" time="0.004"/>
+  <testcase name="testCheckCreateUserWithPhone()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testReportCreationName()" classname="cs455_martina_final.testUserManagerTest" time="0.002"/>
+  <testcase name="testGiveSettersExtrazip()" classname="cs455_martina_final.testUserManagerTest" time="0.003"/>
+  <testcase name="testGiveSettersStartDate()" classname="cs455_martina_final.testUserManagerTest" time="0.007"/>
+  <testcase name="testUserAccountUserConstructorAddressStreet()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testCreateUserClass()" classname="cs455_martina_final.testUserManagerTest" time="0.002"/>
+  <testcase name="testOtgovorStatus()" classname="cs455_martina_final.testUserManagerTest" time="0.002"/>
+  <testcase name="testNoteCreationSettersNid()" classname="cs455_martina_final.testUserManagerTest" time="0.013"/>
+  <testcase name="testNoteCreationSettersUid()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testUserAccountUid()" classname="cs455_martina_final.testUserManagerTest" time="0.002"/>
+  <testcase name="testReportSetName()" classname="cs455_martina_final.testUserManagerTest" time="0.002"/>
+  <testcase name="testUpdateAsk()" classname="cs455_martina_final.testUserManagerTest" time="0.002"/>
+  <testcase name="testUpdateCheck()" classname="cs455_martina_final.testUserManagerTest" time="0.229"/>
+  <testcase name="testUserAccountToString()" classname="cs455_martina_final.testUserManagerTest" time="0.02"/>
+  <testcase name="testReportCreation()" classname="cs455_martina_final.testUserManagerTest" time="0.006"/>
+  <testcase name="testNoteCreation()" classname="cs455_martina_final.testUserManagerTest" time="0.0"/>
+  <testcase name="testNonEmptyGetAllUsers()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testThankConstructorSetTid()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testThankConstructorSetUid()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testAskNill()" classname="cs455_martina_final.testUserManagerTest" time="0.003"/>
+  <testcase name="testGetAllGives()" classname="cs455_martina_final.testUserManagerTest" time="0.004"/>
+  <testcase name="testGetAllUsers()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testAskMatchesId()" classname="cs455_martina_final.testUserManagerTest" time="0.002"/>
+  <testcase name="testCreateNullAccount()" classname="cs455_martina_final.testUserManagerTest" time="0.0"/>
+  <testcase name="testCheckCreateUserWithParamActive()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testUpdateUser()" classname="cs455_martina_final.testUserManagerTest" time="0.011"/>
+  <testcase name="testNoteCreationNullParamToTypeGive()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testNoteCreationNullParamToTypeNote()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testThankConstructorSetDate_created()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testUpdateAccount()" classname="cs455_martina_final.testUserManagerTest" time="0.009"/>
+  <testcase name="testUserAccountPhone()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testCreateAskNullDate_created()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testAddressConstructorZip()" classname="cs455_martina_final.testUserManagerTest" time="0.002"/>
+  <testcase name="testThankConstructorSetDescription()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testCreateAskObjectIsActive()" classname="cs455_martina_final.testUserManagerTest" time="0.003"/>
+  <testcase name="testAddThank()" classname="cs455_martina_final.testUserManagerTest" time="0.0"/>
+  <testcase name="testCreateAskObjectStart_date()" classname="cs455_martina_final.testUserManagerTest" time="0.0"/>
+  <testcase name="testReportCreationNameComparison()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testAskObjectConstructorSetAid()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testNoteCreationSettersTypeFalse()" classname="cs455_martina_final.testUserManagerTest" time="0.005"/>
+  <testcase name="testNoteCreationSettersDescription()" classname="cs455_martina_final.testUserManagerTest" time="0.0"/>
+  <testcase name="testBuyNothingDemo()" classname="cs455_martina_final.testUserManagerTest" time="0.002"/>
+  <testcase name="testOtgovorType()" classname="cs455_martina_final.testUserManagerTest" time="0.003"/>
+  <testcase name="testReportCreationNoParam()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testLibrary()" classname="cs455_martina_final.testUserManagerTest" time="0.004"/>
+  <testcase name="testUserAccountIsActive()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testAskObjectConstructorWrongType()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testgetAllMyAsksActive()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testLibraryMethod()" classname="cs455_martina_final.testUserManagerTest" time="0.002"/>
+  <testcase name="testAskObjectConstructorGift()" classname="cs455_martina_final.testUserManagerTest" time="0.002"/>
+  <testcase name="testAskObjectConstructorHelp()" classname="cs455_martina_final.testUserManagerTest" time="0.0"/>
+  <testcase name="testThankConstructorNoParam()" classname="cs455_martina_final.testUserManagerTest" time="0.0"/>
+  <testcase name="testCreateAskNullIsActive()" classname="cs455_martina_final.testUserManagerTest" time="0.0"/>
+  <testcase name="testThankConstructorSetThankTo()" classname="cs455_martina_final.testUserManagerTest" time="0.0"/>
+  <testcase name="testAddressConstructorStreet()" classname="cs455_martina_final.testUserManagerTest" time="0.002"/>
+  <testcase name="testCreateNewAccount()" classname="cs455_martina_final.testUserManagerTest" time="0.01"/>
+  <testcase name="testSearchAccountKeyStartEnd()" classname="cs455_martina_final.testUserManagerTest" time="0.003"/>
+  <testcase name="testCreateGiveFromGive()" classname="cs455_martina_final.testUserManagerTest" time="0.0"/>
+  <testcase name="testThankConstructorObjectParam()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testActivateAccount()" classname="cs455_martina_final.testUserManagerTest" time="0.012"/>
+  <testcase name="testUserAccountUserConstructorActivity()" classname="cs455_martina_final.testUserManagerTest" time="0.0"/>
+  <testcase name="testSearchAccountKey()" classname="cs455_martina_final.testUserManagerTest" time="0.005"/>
+  <testcase name="testCreateAskObjectFalseType()" classname="cs455_martina_final.testUserManagerTest" time="0.004"/>
+  <testcase name="testNoteCreationNullParamWrongToType()" classname="cs455_martina_final.testUserManagerTest" time="0.007"/>
+  <testcase name="testCreateAccountTestStreet()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testGiveSetters()" classname="cs455_martina_final.testUserManagerTest" time="0.002"/>
+  <testcase name="testGiveSettersMatchId()" classname="cs455_martina_final.testUserManagerTest" time="0.0"/>
+  <testcase name="testAddressZip()" classname="cs455_martina_final.testUserManagerTest" time="0.0"/>
+  <testcase name="testNoteCreationSettersTo_user_id()" classname="cs455_martina_final.testUserManagerTest" time="0.006"/>
+  <testcase name="testCreateGive()" classname="cs455_martina_final.testUserManagerTest" time="0.003"/>
+  <testcase name="testCreateUser()" classname="cs455_martina_final.testUserManagerTest" time="0.0"/>
+  <testcase name="testNoteCreationNullParamToTypeAsk()" classname="cs455_martina_final.testUserManagerTest" time="0.002"/>
+  <testcase name="testCreateAccountTestZip()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testCreateAskObjectDescription()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testNoteCreationSettersDate_created()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testOtgovorTitle()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testAskObjectConstructor()" classname="cs455_martina_final.testUserManagerTest" time="0.002"/>
+  <testcase name="testCheckCreateUserWithParamName()" classname="cs455_martina_final.testUserManagerTest" time="0.0"/>
+  <testcase name="testAddressStreet()" classname="cs455_martina_final.testUserManagerTest" time="0.006"/>
+  <testcase name="testAddAsk()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testCheckMatchesId()" classname="cs455_martina_final.testUserManagerTest" time="0.003"/>
+  <testcase name="testAskUid()" classname="cs455_martina_final.testUserManagerTest" time="0.002"/>
+  <testcase name="testOtgovorInstance()" classname="cs455_martina_final.testUserManagerTest" time="0.0"/>
+  <testcase name="testCreateAskNullDescription()" classname="cs455_martina_final.testUserManagerTest" time="0.002"/>
+  <testcase name="testGiveSettersType()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testCreateAsk()" classname="cs455_martina_final.testUserManagerTest" time="0.0"/>
+  <testcase name="testUserAccountUserConstructorAddressZip()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testAskParamConstructor()" classname="cs455_martina_final.testUserManagerTest" time="0.0"/>
+  <testcase name="testNoteCreationSettersTypeAsk()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testUserAccountUserConstructorPhone()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testUserAccountUserConstructorPhoto()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testCreateAskNullType()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testCreateAskNullExtra_zip()" classname="cs455_martina_final.testUserManagerTest" time="0.0"/>
+  <testcase name="testGiveSettersDateCreated()" classname="cs455_martina_final.testUserManagerTest" time="0.002"/>
+  <testcase name="testCreateAskExtra_zip()" classname="cs455_martina_final.testUserManagerTest" time="0.002"/>
+  <testcase name="testNoteCreationSettersTypeFalseObject()" classname="cs455_martina_final.testUserManagerTest" time="0.002"/>
+  <testcase name="testCreateAskNullStart_date()" classname="cs455_martina_final.testUserManagerTest" time="0.0"/>
+  <testcase name="testCreateAskObjectTrueTypeGift()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testCreateAskObjectTrueTypeHelp()" classname="cs455_martina_final.testUserManagerTest" time="0.004"/>
+  <testcase name="testNoteCreationSettersTypeObjectGive()" classname="cs455_martina_final.testUserManagerTest" time="0.002"/>
+  <testcase name="testGiveSettersDescription()" classname="cs455_martina_final.testUserManagerTest" time="0.002"/>
+  <testcase name="testCreateAskObjectEnd_date()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <testcase name="testGiveSettersActive()" classname="cs455_martina_final.testUserManagerTest" time="0.005"/>
+  <testcase name="testUserAccountAddressZip()" classname="cs455_martina_final.testUserManagerTest" time="0.002"/>
+  <testcase name="testUserAccountPicture()" classname="cs455_martina_final.testUserManagerTest" time="0.002"/>
+  <testcase name="testGiveIsNil()" classname="cs455_martina_final.testUserManagerTest" time="0.001"/>
+  <system-out><![CDATA[null
+myUid
+4aa523ca-9136-4054-87ec-a95e66c87702
+myGid
+4aa523ca-9136-4054-87ec-a95e66c87702
+75294e57-7231-4cd5-9c0b-78486615e7e2
+swim
+
+4aa523ca-9136-4054-87ec-a95e66c87702
+swim
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
