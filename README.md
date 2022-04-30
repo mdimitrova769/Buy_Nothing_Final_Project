@@ -12,6 +12,9 @@ The repo contains the Buy Nothing App final project for CS445.
 * The project requirements are [here](http://cs.iit.edu/~virgil/cs445/mail.spring2022/project/project.html)
 * The API definition for the project is [here](http://cs.iit.edu/~virgil/cs445/mail.spring2022/project/project-api.html)
 
+### Name of the project folder ###
+* cs445_martina_final-version.zip
+
 ### How do I get set up? ###
 
 (i) Install openjdk-17-jdk
@@ -103,10 +106,6 @@ which will print both the response HTTP header and the body.
     + Hover over the "Buy Nothing Tests" name, press the ellipsis on the right of the name, and select "Run Collection" from that menu.
   Make sure the "Buy Nothing Tests - localhost" is selected from the pull down menu in the upper right.
     + Click on the blue "Run Buy Nothing Tests" to find out how many of the tests are passing.
-
-### Important information
-
-* The REST_controller file has been moved to a different package, in order to not disturb the JUnit texting percentages. Before running the project on Postman please return the REST_controller to the package where all the other classes are. Make sure to clean and build the file before uploading the .war file into Postman. 
 
 ### Who do I talk to? ###
 
